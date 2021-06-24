@@ -1,22 +1,53 @@
-# PhonePe UI Clone
+<h1 align="center">PhonePe Clone</h1>
 
-Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Challenge 2018. 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54114888/123316386-655fb780-d54a-11eb-8bdf-35518a3cdd83.png">
+</p>
 
-**_This PhonePe UI Clone is made for challenge purpose and not intented for any business purpose._**
+![GitHub repo size](https://img.shields.io/github/repo-size/Akash-Ramjyothi/PhonePe-Clone?color=yellow)
+## 📜 Description:
+Developed a Clone of the "PhonePe" android application. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs. Extensively used Dynamic Widgets to load the required Resources and Assets, also made the app highly responsive and compatible with various screen sizes.
 
-**Screencast Gif**
+## 🌎 Released Android Application:
+https://gofile.io/d/k1IlTs
 
-![videotogif_2018 04 09_21 11 37](https://user-images.githubusercontent.com/16916934/38507935-7c5125f6-3c3b-11e8-9159-151e8b6f7514.gif)
+## 📽 Sample Demo:
+https://user-images.githubusercontent.com/54114888/123317090-3c8bf200-d54b-11eb-9b71-9cb8d6f0bac0.mp4
 
-**Screenshots**
+## 🏗 Built With:
+- Android Studio.
+- Java.
+- XML.
+- Dynamic Widgets.
 
-![screenshot_20180409-185237_1_25](https://user-images.githubusercontent.com/16916934/38513152-f0a3c012-3c4a-11e8-9950-b2c0dedf5c4c.png)
-![screenshot_20180409-185242_25](https://user-images.githubusercontent.com/16916934/38513153-f0d15c7a-3c4a-11e8-872f-a2cb0715933e.png)
-![screenshot_20180409-185247_25](https://user-images.githubusercontent.com/16916934/38513154-f0fe76ce-3c4a-11e8-8a6d-bec87aa6514f.png)
-![screenshot_20180409-185254_25](https://user-images.githubusercontent.com/16916934/38513156-f12e42f0-3c4a-11e8-9fad-36638749a937.png)
-![screenshot_20180409-185309_25](https://user-images.githubusercontent.com/16916934/38513157-f15b9d0e-3c4a-11e8-892e-b8c229ddab56.png)
-![screenshot_20180409-185312_25](https://user-images.githubusercontent.com/16916934/38513158-f18987c8-3c4a-11e8-864f-aaf8ea5c7c7d.png)
+## 🧪 Steps to Build locally:
+- Open Android Studio IDE.
+- Clone with `git clone https://github.com/Akash-Ramjyothi/PhonePe-Clone`.
+- Select whether to run on Android Emulator or Physical Device connected with USB.
+- Run the application with `gradle assembleDebug` on command line.
 
+## 💥 How to Contribute?
 
-**It a fully Open Source project so go ahead and fork it.**
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
+- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/PhonePe-Clone/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Screenshots to help me know what this Code is all about.
+
+## 👦 Developed By:
+<h2 align="center">Akash Ramjyothi</h2>
+<p align="center">
+  <a href="https://github.com/Akash-Ramjyothi"><img src="https://avatars.githubusercontent.com/u/54114888?v=4" width=150px height=150px /></a> 
+    
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akash.ramjyothi@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash.ramjyothi/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ☎️ PH:+91 8939928002.
+</p>
+
+## 🌐 References Used:
+- https://www.youtube.com/watch?v=8xxfdN2lbKc
