@@ -1,10 +1,9 @@
 <h1 align="center">PhonePe Clone</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/123316386-655fb780-d54a-11eb-8bdf-35518a3cdd83.png">
+<img src="https://user-images.githubusercontent.com/54114888/123316386-655fb780-d54a-11eb-8bdf-35518a3cdd83.png" width="160" height="160">
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Akash-Ramjyothi/PhonePe-Clone?color=yellow)
 ## 📜 Description:
 Developed a Clone of the "PhonePe" android application. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs. Extensively used Dynamic Widgets to load the required Resources and Assets, also made the app highly responsive and compatible with various screen sizes.
 
